@@ -1,0 +1,2 @@
+year_month,scheduled_flights,cancelled,flights_departed,avg_dep_delay,median_dep_delay,delayed,pct_delayed,pct_cancelled
+2024-02,519221,3002,516219,7.443,-3.0,79987,15.495,0.578

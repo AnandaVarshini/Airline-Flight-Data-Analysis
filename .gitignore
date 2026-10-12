@@ -1,0 +1,20 @@
+# Raw data is large - never commit it (see data/README.md for how to download)
+data/raw/*
+!data/raw/.gitkeep
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
